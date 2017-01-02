@@ -1,0 +1,7 @@
+[package]
+name = "xmobar-tmux"
+version = "0.1.0"
+authors = ["Matt Chun-Lum <matt@questionable.engineering"]
+
+[dependencies]
+regex = "*"
